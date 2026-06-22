@@ -2,7 +2,6 @@
 
 ## Description
 A complete vision-language application using BLIP (Bootstrapping Language-Image Pre-training) for image captioning and visual question answering.
-
 ## Features
 - Image upload (local or URL)
 - Automatic image caption generation
